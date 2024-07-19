@@ -1,4 +1,4 @@
-package qwasar.investmens_fund.model;
+package qwasar.investments_fund.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 
 
 @Entity
-public class Investments {
+public class Investment {
 
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)

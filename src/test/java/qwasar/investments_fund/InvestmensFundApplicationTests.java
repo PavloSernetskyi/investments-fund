@@ -1,4 +1,4 @@
-package qwasar.investmens_fund;
+package qwasar.investments_fund;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

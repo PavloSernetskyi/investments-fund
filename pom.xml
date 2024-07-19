@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>qwasar</groupId>
-	<artifactId>investmens-fund</artifactId>
+	<artifactId>investments-fund</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>investmens-fund</name>
 	<description>full stack investments website that allows to invest money in various assets such as homes, stocks and so on. </description>
