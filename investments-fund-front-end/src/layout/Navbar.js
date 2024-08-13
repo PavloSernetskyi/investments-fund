@@ -1,5 +1,5 @@
-import React from 'react'
-import {Link} from "react-router-dom";
+import React from 'react';
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
@@ -37,6 +37,7 @@ export default function Navbar() {
     </div>
     {/* changing this button to link. */}
     <Link className="btn btn-outline-light" to="/addinvestment">Create Investment</Link>
+    <Link className="btn btn-outline-light mx-2" to="/investment-summary"> View Investments Summary</Link>
   </div>
 </nav>
 
