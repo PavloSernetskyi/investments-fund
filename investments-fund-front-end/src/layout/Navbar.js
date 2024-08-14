@@ -15,10 +15,10 @@ export default function Navbar() {
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link className="nav-link active" to="/" aria-current="page" href="#">Home</Link>
+          <Link className="nav-link" to="/" aria-current="page" href="#">Home</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Features</a>
+          <Link className="nav-link" to="/investment-summary"> View Investments Summary</Link>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Pricing</a>
@@ -36,8 +36,9 @@ export default function Navbar() {
       </ul>
     </div>
     {/* changing this button to link. */}
-    <Link className="btn btn-outline-light" to="/addinvestment">Create Investment</Link>
     <Link className="btn btn-outline-light mx-2" to="/investment-summary"> View Investments Summary</Link>
+    <Link className="btn btn-outline-light" to="/addinvestment">Create Investment</Link>
+    
   </div>
 </nav>
 
