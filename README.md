@@ -1,7 +1,7 @@
 # Investments fund
 
 ## Introduction
-The **Investments fund** project is a full stack project with a focus on backend. This project demonstrates OOP, ORM, MySQL Database, CRUD operations, Axios, and much more.
+The **Investments fund** project is a full stack project with a focus on backend. This project demonstrates concepts of OOP, ORM, MySQL Database, CRUD operations, Axios, and much more.
 ## Built With
 This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaScript
 
