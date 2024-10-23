@@ -28,6 +28,8 @@ This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaS
    ![image](https://github.com/user-attachments/assets/a758dd5b-71aa-44ba-8d50-6cc1a2d3391a)
 11. Verify that MySQL database is up to date:
     ![image](https://github.com/user-attachments/assets/7b6555a0-00cf-437c-80ac-7ef69e97c7ed)
+12. Finally, view Investments Summary will display total amount invested which also has functionality to add funds to the pool:
+   ![image](https://github.com/user-attachments/assets/d6eafe58-055d-49d3-96f1-bb6bdc3765fc)
 
 ## Authors
 
