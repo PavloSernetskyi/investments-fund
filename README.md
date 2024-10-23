@@ -3,7 +3,7 @@
 ## Introduction
 The **Investments fund** project is a full stack project with a focus on backend. This project demonstrates concepts of Object Oriented Programming, Object Relational Mapping, MySQL Database, CRUD operations, Axios, and much more.
 ## Built With
-This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaScript
+This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaScript, React JS.
 
 ## Instructions on how to run Java Spring Boot Back-End server, MySQL Database, Front-End with React locally and Sample Screenshots:
 1. To run the investments fund locally MySQL Database need to be installed first.
