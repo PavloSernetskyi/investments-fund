@@ -10,7 +10,7 @@ This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaS
 2. After MySQL has been sucessfully installed the user would manually create local database as shown on the screenshot after executing the following SQL command:
    create database investments;
    ![image](https://github.com/user-attachments/assets/64e7a57c-ce11-49f3-a074-69c25dab21e5)
-3. verify that investments databse was sucessfully created by running SQL command: show databases;
+3. Verify that investments databse was sucessfully created by running SQL command: show databases;
    ![image](https://github.com/user-attachments/assets/54c87b1e-3675-47d5-98ef-5857e34a4f93)
 4. Then we would want to start the back-end server which would create "investment" in investments database. Runnning Java Spring back-end:
    ![image](https://github.com/user-attachments/assets/5eb7fb7b-d184-4643-9240-f429a2a6e61e)
@@ -24,10 +24,10 @@ This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaS
    ![image](https://github.com/user-attachments/assets/09cf775e-1a36-4df5-aa58-e5db6b000da3)
 10. Click Create Investment to create new record that will be stored into MySQL Database:
     ![image](https://github.com/user-attachments/assets/e9a709e6-0418-4897-a2b8-e6e2a15b8798)
-11. ![image](https://github.com/user-attachments/assets/a758dd5b-71aa-44ba-8d50-6cc1a2d3391a)
-
-
-
+11. Updated records:
+   ![image](https://github.com/user-attachments/assets/a758dd5b-71aa-44ba-8d50-6cc1a2d3391a)
+12. Verify that MySQL database is up to date:
+    ![image](https://github.com/user-attachments/assets/7b6555a0-00cf-437c-80ac-7ef69e97c7ed)
 
 ## Authors
 
