@@ -19,14 +19,14 @@ This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaS
 6. Using terminal navigate to the front end part of the program to run the front-end part:
    ![image](https://github.com/user-attachments/assets/e2a4ea20-9dfe-44c1-a5f9-18b5c37413bf)
 7. Then once inside of the front end folder run the commant "npm start to start react application:
-8. ![image](https://github.com/user-attachments/assets/81798b0d-a29c-4d4d-bdb8-a2d6bc676183)
-9. The homepage for the project will be displayed:
+   ![image](https://github.com/user-attachments/assets/81798b0d-a29c-4d4d-bdb8-a2d6bc676183)
+8. The homepage for the project will be displayed:
    ![image](https://github.com/user-attachments/assets/09cf775e-1a36-4df5-aa58-e5db6b000da3)
-10. Click Create Investment to create new record that will be stored into MySQL Database:
+9. Click Create Investment to create new record that will be stored into MySQL Database:
     ![image](https://github.com/user-attachments/assets/e9a709e6-0418-4897-a2b8-e6e2a15b8798)
-11. Updated records:
+10. Updated records:
    ![image](https://github.com/user-attachments/assets/a758dd5b-71aa-44ba-8d50-6cc1a2d3391a)
-12. Verify that MySQL database is up to date:
+11. Verify that MySQL database is up to date:
     ![image](https://github.com/user-attachments/assets/7b6555a0-00cf-437c-80ac-7ef69e97c7ed)
 
 ## Authors
