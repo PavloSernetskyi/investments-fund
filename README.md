@@ -2,6 +2,10 @@
 
 ## Introduction
 The **Investments fund** project is a full stack project with a focus on backend. This project demonstrates concepts of Object Oriented Programming, Object Relational Mapping, MySQL Database, CRUD operations, Axios, and much more.
+
+## Web Design and Database Design using Figma:
+![image](https://github.com/user-attachments/assets/8b687bc8-58f3-4eb0-8c33-f4a10be22670)
+
 ## Built With
 This project incorporates technologies like Java, Java Spring Boot, MySQL, JavaScript, React JS.
 
